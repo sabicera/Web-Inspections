@@ -106,7 +106,7 @@ const app = {
         user: 'inspections_strangeday',
         password: '6e3ffeb5c219f8488f16fef036db9bac69b21e53'
     },
-    apiBaseUrl: 'https://iinspections-api-proxy.onrender.com', // This is a proxy service URL - replace with your actual API service
+    apiBaseUrl: 'https://inspections-api-proxy.onrender.com', // This is a proxy service URL - replace with your actual API service
     portToTimezone: {
         "Colon": "America/Panama",
         "Rodman": "America/Panama",
